@@ -12,6 +12,9 @@ body{
     display: flex;
     justify-content: space-around;
     text-align: center;
+    background: #ddebf8;
+    border-bottom: 10px solid #d8cefe;
+    color: #2b2839;
 }
 
 .card-img{
